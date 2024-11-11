@@ -1,0 +1,3 @@
+C:/Users/Stojanovic/Desktop/milica faks/asp2/sm220361asp2dz3/cmake-build-debug/CMakeFiles/sm220361.dir
+C:/Users/Stojanovic/Desktop/milica faks/asp2/sm220361asp2dz3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stojanovic/Desktop/milica faks/asp2/sm220361asp2dz3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
